@@ -1,0 +1,15 @@
+E:\LEARN_CODE\Bonnibel\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\LEARN_CODE\Bonnibel\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\LEARN_CODE\Bonnibel\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\LEARN_CODE\Bonnibel\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\LEARN_CODE\Bonnibel\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\LEARN_CODE\Bonnibel\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\LEARN_CODE\Bonnibel\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\LEARN_CODE\Bonnibel\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\LEARN_CODE\Bonnibel\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\LEARN_CODE\Bonnibel\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\LEARN_CODE\Bonnibel\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ObjectListView.dll
+E:\LEARN_CODE\Bonnibel\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ObjectListView.xml
+E:\LEARN_CODE\Bonnibel\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\LEARN_CODE\Bonnibel\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\LEARN_CODE\Bonnibel\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
